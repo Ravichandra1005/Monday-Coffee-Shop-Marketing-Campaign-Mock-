@@ -2,7 +2,8 @@
 
 # Mock Google Ads Campaign for Monday Coffee Shop
 
-https://raw.githubusercontent.com/YourUsername/RepoName/main/images/google-ads-monday-coffee.jpg
+![google ads pic](https://github.com/user-attachments/assets/08d2e672-cf31-4bf6-ae1e-062e58b59a30)
+
 
 
 
