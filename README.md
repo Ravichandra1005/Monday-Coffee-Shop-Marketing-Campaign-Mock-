@@ -237,6 +237,242 @@ Copy code
 
 ---
 
+# ☕ Monday Coffee Shop – Facebook Ads Mock Campaign
+
+A complete mock campaign created to showcase strategic planning, targeting, and creative execution for **Facebook & Instagram ads**. This project is ideal for portfolios, GitHub case studies, and digital marketing presentations.
+
+---
+
+## 🎯 Objective
+
+The goal of this campaign is to increase **brand awareness** and **website traffic** by targeting coffee lovers in **Pune**, **Delhi**, and **Jaipur** through Facebook and Instagram ads.
+
+> 💡 This mock campaign demonstrates professional-level ad setup, audience segmentation, creative formats, and performance tracking.
+
+![Facebook Business Suite Dashboard](images/fb-business-dashboard.png)
+
+---
+
+## 🧩 Step 1: Facebook Ads Setup
+
+Steps to create the campaign in **Meta Business Suite**:
+
+1. Go to [Meta Business Suite](https://business.facebook.com/)
+2. Click **Create Ad** → Choose **Traffic** as your objective
+3. Enter your **website URL**
+4. Connect your **Facebook Page** & **Instagram account**
+5. Choose **Manual Placements** → Facebook Feed, Instagram Feed, Stories
+
+> ✅ Manage all assets from one place — Meta Business Suite.
+
+---
+
+## 🧱 Step 2: Campaign Structure
+
+| Field             | Value                             |
+|------------------|-----------------------------------|
+| Campaign Name     | `MondayCoffee_FB_Traffic_2025`    |
+| Objective         | Website Traffic                   |
+| Ad Set Name       | `CoffeeLovers_India`              |
+| Placements        | Facebook Feed, IG Feed, Stories   |
+| Budget (Mock)     | ₹600/day (~₹18,000/month)         |
+| Optimization Goal | Link Clicks                       |
+
+![Campaign Structure](images/fb-campaign-structure.png)
+
+---
+
+## 🎯 Step 3: Audience Targeting
+
+| Targeting Type | Criteria                                                             |
+|----------------|----------------------------------------------------------------------|
+| Location       | Pune, Delhi, Jaipur                                                  |
+| Age Group      | 18–45 years                                                          |
+| Gender         | All                                                                  |
+| Interests      | Coffee, Cafés, Cookies, Food & Beverages, Desserts                   |
+| Behavior       | Café visitors, Online food orderers                                  |
+| Device         | Mobile & Desktop                                                     |
+
+> 🎯 Focus: Urban coffee lovers with high engagement on social media.
+
+![Audience Targeting](images/fb-audience.png)
+
+---
+
+## 🎨 Step 4: Ad Creative Format (Mock)
+
+| Ad Type     | Description                                                                 |
+|-------------|------------------------------------------------------------------------------|
+| Image Ad    | Coffee & cookie promos with **“Order Now”** CTA                             |
+| Carousel Ad | Espresso ☕, Mocha 🍫, Cookies 🍪, Combo Meals 🥤                             |
+| Video Reel  | 10–15 sec café ambience, barista pouring shots, customer smiles 🎥          |
+
+> 🎨 Visual Style: Coffee-brown tones, cream backgrounds, clean modern typography.
+
+![Ad Creative Example](images/fb-ad-creative.png)
+
+---
+
+## ✍ Step 5: Ad Copy Samples
+
+### 🎬 Ad 1 – *Warm & Cozy Offer*
+- **Headline:** Fresh Coffee, Fresh Start ☕  
+- **Primary Text:** Begin your day with freshly brewed coffee & cookies from Monday Coffee Shop!  
+  Visit our outlets in Pune, Delhi, Jaipur or order online.  
+- **CTA:** Learn More
+
+---
+
+### 🎉 Ad 2 – *Combo Discount*
+- **Headline:** 20% Off Coffee Combos! 🍪☕  
+- **Primary Text:** Order your favorite coffee + cookie combo and enjoy 20% off your first order.  
+  Limited-time offer!  
+- **CTA:** Shop Now
+
+---
+
+### 🌇 Ad 3 – *Café Vibes*
+- **Headline:** Your Favorite Café is Now in Town ❤  
+- **Primary Text:** Relax, sip, and smile! Monday Coffee Shop has opened new stores near you.  
+  Come feel the vibe!  
+- **CTA:** Visit Us
+
+---
+
+## 💰 Step 6: Budget & Bidding (Mock)
+
+| Parameter            | Value                     |
+|----------------------|---------------------------|
+| Daily Budget         | ₹600/day                  |
+| Bid Strategy         | Lowest Cost               |
+| Optimization Goal    | Link Clicks               |
+| Estimated CPC        | ₹4–₹10                    |
+| Estimated Clicks/day | 60–100 clicks             |
+
+> 💡 Tip: Use a modest daily budget to A/B test creatives and scale winners.
+
+![Budget Overview](images/fb-budget.png)
+
+---
+
+## 📊 Step 7: Tracking & Analytics
+
+1. Install **Meta Pixel** on your website
+2. Track these performance metrics:
+   - CTR (Click-Through Rate)
+   - CPC (Cost per Click)
+   - Engagement (Likes, Shares, Comments)
+   - Website Traffic
+
+3. Use **Meta Ads Manager** for custom reports and audience insights.
+
+> 📈 Optimization: Pause underperformers and boost top performers.
+
+![Meta Pixel Setup](images/meta-pixel.png)
+
+---
+
+## 📈 Mock Results Summary (Estimated)
+
+| Metric         | Value             |
+|----------------|------------------|
+| Impressions    | 25,000/month      |
+| Clicks         | 2,000–2,500       |
+| CTR            | 7–9%              |
+| Avg CPC        | ₹6                |
+| Engagement     | 10–12%            |
+
+> 🚀 These are **mock metrics** for demonstration purposes.
+
+![Performance Summary](images/fb-performance.png)
+
+---
+
+## ✅ Promotional Checklist
+
+Use this checklist to complete your GitHub project with supporting visuals:
+
+- [ ] Add **fb-business-dashboard.png** (Campaign Dashboard)
+- [ ] Add **fb-campaign-structure.png** (Campaign Setup)
+- [ ] Add **fb-audience.png** (Audience Details)
+- [ ] Add **fb-ad-creative.png** (Creative Example)
+- [ ] Add **fb-budget.png** (Budget Overview)
+- [ ] Add **meta-pixel.png** (Tracking Setup)
+- [ ] Add **fb-performance.png** (Mock Results)
+
+---
+
+## 🧾 Summary
+
+The Facebook Ads Mock Campaign for **Monday Coffee Shop** demonstrates how to:
+
+✅ Build a structured traffic campaign  
+✅ Target high-intent audiences across cities  
+✅ Write compelling ad copy and design visuals  
+✅ Set budgets and track performance metrics  
+
+---
+
+## 🚀 Next Steps (Live Campaign Suggestion)
+
+- Launch with real creatives + Meta Pixel  
+- A/B test images, carousels, reels  
+- Build remarketing ads for website visitors  
+- Track conversions and optimize weekly
+
+---
+
+## 📂 GitHub Project Structure
+
+/Facebook_Ads_Mock/
+├── README.md
+├── images/
+│ ├── fb-business-dashboard.png
+│ ├── fb-campaign-structure.png
+│ ├── fb-audience.png
+│ ├── fb-ad-creative.png
+│ ├── fb-budget.png
+│ ├── meta-pixel.png
+│ ├── fb-performance.png
+├── creatives/
+│ ├── ad1.jpg
+│ ├── ad2.jpg
+│ └── ad3.jpg
+
+yaml
+Copy code
+
+---
+
+## ☕ Branding Colors
+
+| Element           | Hex Code | Preview |
+|-------------------|----------|---------|
+| Coffee Brown      | `#6B4423`| ![#6B4423](https://placehold.co/15x15/6B4423/6B4423.png) |
+| Amber Accent      | `#D2691E`| ![#D2691E](https://placehold.co/15x15/D2691E/D2691E.png) |
+| Cream Background  | `#F5EBDD`| ![#F5EBDD](https://placehold.co/15x15/F5EBDD/F5EBDD.png) |
+| Facebook Blue     | `#1877F2`| ![#1877F2](https://placehold.co/15x15/1877F2/1877F2.png) |
+
+> 🎨 Keep branding consistent across visuals and ads.
+
+---
+
+## 💬 Social Media Caption (Example)
+
+> ☕ Monday Coffee Shop is now brewing across Pune, Delhi & Jaipur!  
+> Discover our combos, cookies, and cozy coffee experience.  
+> Visit our site or stores today — your first sip is 20% off!  
+> #MondayCoffee #CoffeeLovers #CafeVibes #FacebookAdsMock
+
+---
+
+## 🏁 Final Note
+
+This mock campaign showcases a **real-world marketing approach** tailored for a local coffee brand expanding into new cities. Ideal for portfolios, case studies, and digital marketing interviews.
+
+---
+
+
 ## 📍 About
 
 **Project:** Monday Coffee Ads Campaign  
