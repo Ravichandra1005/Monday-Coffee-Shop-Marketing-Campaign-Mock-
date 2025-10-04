@@ -252,9 +252,7 @@ Now open in Delhi!
 
 ---
 # 📘 Monday Coffee Shop – Facebook Ads Mock Campaign
-
-**A professional mock campaign to demonstrate Facebook & Instagram advertising strategy**  
-*Created by Ravi Chandra B – Data Analyst & Digital Marketing Enthusiast*
+![facebook ads pic](https://github.com/user-attachments/assets/d1a30785-24bc-4588-a17c-1256ac25bc89)
 
 ---
 
