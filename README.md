@@ -1,166 +1,250 @@
-# Monday-Coffee-Shop-Marketing-Campaign-Mock-
+# ☕ Monday Coffee Ads Campaign
 
-# ☕ Monday Coffee Shop – Google Ads Mock Campaign
+**Mock Google Ads Campaign for Monday Coffee Shop**  
+Created by *Ravi Chandra B – Data Analyst & Digital Marketing Enthusiast*  
 
-## 🎯 Objective
-
-The main goal of this mock campaign is to *demonstrate a professional Google Ads strategy* to increase website traffic and attract potential customers.  
-
-*Business Goal:* Promote Monday Coffee Shop’s offerings – coffee, cookies, combos, and new store updates in Pune, Delhi, and Jaipur.
-
-*Mock Project Goal:* No real money is spent; all steps are theoretical but follow real-world best practices.
+This is a comprehensive **Google Ads mock campaign** designed to demonstrate how to analyze a business, plan strategic targeting, and develop ad campaigns to drive traffic and conversions for a coffee shop expanding into new cities.
 
 ---
 
-## 📝 Step 1: Google Ads Account Setup
+## 📌 Campaign Objective
 
-1. Go to [Google Ads](https://ads.google.com/) and sign in with your Google Account.  
-2. Click *New Campaign* → Choose *Website Traffic* as your campaign objective.  
-3. Enter your Monday Coffee Shop website URL.  
+**Primary Goal:**  
+Drive **qualified traffic** to the Monday Coffee Shop website and increase **brand awareness** in key Indian markets.
 
-> 💡 Tip: This step sets the foundation. Google Ads requires a website URL to link clicks directly to your business.
+**Target Cities:**
+- 🏙️ Pune – High demand market  
+- 🏙️ Delhi – Metropolitan opportunity  
+- 🏙️ Jaipur – Emerging market  
 
-![Google Ads Dashboard](images/google-ads-dashboard.png)
-
----
-
-## 📝 Step 2: Campaign Structure
-
-| Parameter | Setting |
-|-----------|---------|
-| *Campaign Type* | Search Ads (Text-based ads triggered by keywords) |
-| *Campaign Name* | MondayCoffee_WebTraffic_2025 |
-| *Networks* | Google Search Network only (disable Display Network) |
-| *Locations* | Pune, Delhi, Jaipur |
-| *Languages* | English + Hindi |
-| *Daily Budget (Mock)* | ₹500/day (~₹15,000/month) |
-
-> 💡 Why Search Ads? Because customers actively searching for “coffee near me” are high-intent users likely to visit or order.
-
-![Campaign Structure](images/campaign-structure.png)
+**Success Metrics:**
+- ✅ CTR above 3%  
+- ✅ CPC under ₹15  
+- ✅ Conversion rate above 5%  
+- ✅ Quality Score of 7+
 
 ---
 
-## 📝 Step 3: Audience Targeting
+## 🗂 Table of Contents
 
-| Targeting Factor | Setting |
-|-----------------|--------|
-| *Age Group* | 18–45 (coffee lovers, young professionals, students) |
-| *Interests* | Coffee, Cafés, Food & Beverages, Lifestyle |
-| *Device* | Desktop + Mobile (mobile optimization enabled) |
-
-> 💡 Tip: This ensures ads reach the right people and increases the probability of clicks converting into visits or orders.
-
-![Audience Targeting](images/audience-targeting.png)
-
----
-
-## 📝 Step 4: Keyword Research (Mock List)
-
-| Keyword Type | Example Keywords |
-|--------------|----------------|
-| *Broad Match* | coffee shop near me, fresh cookies with coffee |
-| *Phrase Match* | "best coffee in Pune", "Delhi coffee café offers" |
-| *Exact Match* | [Jaipur coffee house], [Monday Coffee Shop combos] |
-
-> 💡 Tip: Keywords can later be refined using *Google Keyword Planner*.
-
-![Keyword Planner](images/keyword-planner.png)
+1. [Objective](#1-objective)
+2. [Google Ads Setup](#2-google-ads-setup)
+3. [Campaign Structure](#3-campaign-structure)
+4. [Audience Targeting](#4-audience-targeting)
+5. [Keyword Research](#5-keyword-research)
+6. [Ad Copy](#6-ad-copy)
+7. [Ad Extensions](#7-ad-extensions)
+8. [Bidding Strategy](#8-bidding-strategy)
+9. [Monitoring & Optimization](#9-monitoring--optimization)
+10. [Final Summary](#10-final-summary)
 
 ---
 
-## 📝 Step 5: Ad Copy (Mock Ads)
+## 1. 🎯 Objective
 
-### Ad 1 – Coffee Lovers Special
-- *Headline 1:* Freshly Brewed Coffee Near You ☕  
-- *Headline 2:* Monday Coffee Shop – Pune, Delhi, Jaipur  
-- *Headline 3:* Special Combos & Cookies Offers  
-- *Description:* Taste the perfect cup of coffee with fresh cookies. Visit our new stores or order online today!  
+**Campaign Name:**  
+`Monday Coffee – Store Launch 2025`
 
-### Ad 2 – Exclusive Offers
-- *Headline 1:* Get 20% Off On First Order  
-- *Headline 2:* Monday Coffee Shop  
-- *Headline 3:* Fresh Coffee, Fresh Start  
-- *Description:* Discover our coffee & cookie combos. Limited-time offer for first-time visitors. Don’t miss out!  
-
-> 💡 Tip: Create 2–3 variations for A/B testing. Headlines should include *keywords; descriptions should emphasize **benefits or offers*.
-
-![Ad Preview](images/ad-preview.png)
+**Goal:**  
+Increase store visits and website traffic using targeted **Search + Display Ads**.
 
 ---
 
-## 📝 Step 6: Extensions (Mock Setup)
+## 2. ⚙️ Google Ads Setup
 
-| Extension Type | Example |
-|----------------|--------|
-| *Sitelink* | Menu → [#](#) <br> Offers → [#](#) <br> Contact → [#](#) |
-| *Callout* | Free Wi-Fi, Freshly Baked Cookies, New Outlets in Pune, Delhi, Jaipur |
-| *Call Extension* | Add business phone number for instant calls |
+- **Platform:** [ads.google.com](https://ads.google.com)  
+- **Campaign Objective:** Website Traffic & Local Store Visits  
+- **Mode:** Expert Mode  
+- **Languages:** English & Hindi  
+- **Geographic Targeting:** Pune, Delhi, Jaipur  
 
-> 💡 Tip: Extensions improve CTR and ad visibility without additional cost.
-
-![Extensions Setup](images/extensions.png)
+> *Using Expert Mode allows advanced control over ad settings, targeting, and bidding.*
 
 ---
 
-## 📝 Step 7: Bidding Strategy
+## 3. 🏗️ Campaign Structure
 
-- *Strategy Chosen:* Maximize Clicks (goal: drive traffic).  
-- *CPC (Mock):* Avg. ₹8–₹15 per click in metro cities.  
-- *Daily Budget:* ₹500 → Estimated 35–50 clicks/day.  
+**Networks:**  
+Google Search Network + Display Select
 
-> 💡 Tip: Start with Maximize Clicks for traffic campaigns, later switch to *Target CPA or ROAS* if conversions need optimization.
+**Ad Groups:**
+| Ad Group            | Focus                          | Keywords |
+|---------------------|--------------------------------|----------|
+| Coffee Near Me      | Local intent searches          | 15       |
+| Coffee + Cookies    | Product combo                  | 12       |
+| Cold Brew Pune      | City-specific product          | 10       |
+| Premium Coffee Delhi| Premium segment                | 14       |
+| Coffee Shop Jaipur  | Brand + Location               | 11       |
 
-![Bidding Strategy](images/bidding-strategy.png)
-
----
-
-## 📝 Step 8: Monitoring & Optimization
-
-Even as a mock campaign, explain *real-world optimization*:
-
-1. Track CTR (Click-Through Rate).  
-2. Pause low-performing keywords.  
-3. Test multiple ad copies (A/B testing).  
-4. Shift budget to best-performing cities/keywords.  
-5. Monitor conversion metrics once online orders or contact forms are live.
-
-![Monitoring Dashboard](images/monitoring-dashboard.png)
+**Budget:**
+- 💰 Daily: ₹500  
+- 💰 Monthly: ₹15,000  
 
 ---
 
-## 📊 Estimated Results (Mock)
+## 4. 🧑‍🤝‍🧑 Audience Targeting
 
-| City   | Daily Budget | Estimated Clicks |
-|--------|--------------|----------------|
-| Pune   | ₹166         | 12–15          |
-| Delhi  | ₹167         | 12–16          |
-| Jaipur | ₹167         | 11–15          |
+**Demographics:**
+- Age: 18–44  
+- Gender: All  
+- Income: Middle to Upper-Middle  
 
-> 💡 Tip: These numbers are hypothetical to demonstrate campaign planning.
+**Geography:**
+- **Pune:** Koregaon Park, Hinjewadi, Viman Nagar (15km)
+- **Delhi:** Connaught Place, Hauz Khas, Saket (20km)
+- **Jaipur:** C-Scheme, Malviya Nagar, Vaishali (12km)
 
----
+**Device Targeting:**
+- 📱 Mobile: 60%  
+- 💻 Desktop: 30%  
+- 📱 Tablet: 10%
 
-## ✅ Summary
-
-This mock campaign demonstrates:
-
-- *Market Analysis:* Focused on Pune, Delhi, Jaipur.  
-- *Campaign Planning:* Search Ads structure with ad groups, keywords, and audience targeting.  
-- *Ad Copywriting:* Engaging headlines, descriptions, and offers.  
-- *Optimization Strategy:* Tracking, testing, and adjustments.  
-
-*Next Steps (For Real Campaign):*
-
-- Launch a real campaign with allocated budget.  
-- Integrate Google Analytics & conversion tracking.  
-- Optimize for conversions and ROI.  
+**Ad Schedule:**
+- ⏰ 8AM–11AM & 2PM–5PM  
+- 🗓️ All 7 days  
+- 📈 +30% bid during peak hours
 
 ---
 
-## 📌 GitHub README Tips
+## 5. 🔍 Keyword Research
 
-- Replace *image placeholders* with actual screenshots if available.  
-- Keep headings, tables, and bullet points for clarity.  
-- Highlight *skills demonstrated:* Digital Marketing, Keyword Research, Ad Copy, Campaign Optimization.  
-- Include *mock budget and results table* to show data-driven planning.
+**Tool Used:** Google Keyword Planner  
+**Total Keywords:** 62+  
+**Match Types:** Broad, Phrase, Exact  
+
+**Top Keywords:**
+| Keyword | Volume | CPC | Intent |
+|---------|--------|-----|--------|
+| coffee shop near me | High | ₹12-18 | Local |
+| best coffee in Pune | High | ₹10-15 | Brand |
+| cold brew coffee Delhi | Medium | ₹8-14 | Product |
+| espresso bar Jaipur | Medium | ₹6-12 | Product |
+
+**Negative Keywords:**
+- free coffee  
+- instant coffee  
+- cheap coffee  
+- coffee maker  
+- coffee beans wholesale  
+
+**Long-Tail Examples:**
+- “best cold brew coffee shop in Pune”  
+- “premium coffee shop with wifi Delhi”  
+- “artisan coffee roasters Jaipur”  
+
+> *Focus on high-intent keywords + exclude irrelevant ones to maximize ROI.*
+
+---
+
+## 6. 📝 Ad Copy
+
+### 📍 Local Focus
+Fresh Coffee in Pune | Try Our Cookies & Cold Brew
+Premium coffee & artisan cookies. Free Wi-Fi, student discounts.
+Visit us today! Scan QR in-store for exclusive offers.
+
+shell
+Copy code
+
+### ☕ Product Focus
+Best Cold Brew in Delhi | Espresso, Cappuccino & More
+Discover Monday Coffee – expertly crafted coffee & gourmet cookies.
+Now open in Delhi!
+
+yaml
+Copy code
+
+**Best Practices Used:**
+- ✅ Keyword-rich headlines  
+- ✅ Clear CTAs  
+- ✅ Unique selling points  
+- ✅ Urgency (e.g., "10% Off", "Now Open")
+
+---
+
+## 7. ➕ Ad Extensions
+
+**Sitelinks:**
+- `/menu` – Our Menu  
+- `/locations` – Store Locations  
+- `/offers` – Special Offers  
+- `/about` – About Us  
+
+**Callouts:**
+- Free Wi-Fi, Student Discount, Premium Quality, Fast Service
+
+**Call Extension:**
+- 📞 +91 9686709114 (Mobile preferred)
+
+**Location Extension:**
+- Integrated with **Google My Business**
+
+> *Extensions increase visibility and CTR by 10–15% without increasing CPC.*
+
+---
+
+## 8. 💸 Bidding Strategy
+
+**Strategy Used:** Maximize Clicks  
+- Ideal for awareness phase  
+- Easily scalable to Target CPA later
+
+**Bid Adjustments:**
+- 📱 Mobile: +20%  
+- 🕒 Peak Hours: +30%  
+- 📍 Pune: +15%, Delhi: +10%
+
+**Expected Performance:**
+- 35–40 clicks/day  
+- Avg CPC: ₹12–15  
+- Target CTR: 3.5%  
+- Quality Score: 7+
+
+---
+
+## 9. 📊 Monitoring & Optimization
+
+**Performance Targets:**
+- ✅ CTR: 3.5%  
+- ✅ CPC: ₹13.50  
+- ✅ Quality Score: 7.5  
+- ✅ Conversion Rate: 5.2%
+
+**Ongoing Actions:**
+- Pause low CTR keywords  
+- A/B test headlines  
+- Weekly negative keyword updates  
+- Increase bids on top performers  
+- Competitor ad analysis  
+
+---
+
+## 10. ✅ Final Summary
+
+### 📌 What Was Achieved:
+- Identified 3 strategic cities  
+- Built campaign with 5 structured ad groups  
+- Researched 62+ keywords  
+- Created location-optimized ad copy  
+- Implemented full extension strategy  
+- Set ₹500/day budget with smart bidding  
+- Established performance tracking  
+
+### 🚀 Next Steps:
+- Launch live campaigns  
+- Analyze performance in real-time  
+- Scale with Target CPA and remarketing
+
+---
+
+## 📍 About
+
+**Project:** Monday Coffee Ads Campaign  
+**Author:** Ravi Chandra B  
+**Role:** Data Analyst & Digital Marketing Enthusiast  
+**Year:** © 2025
+
+---
+
+> This campaign showcases my ability to merge digital marketing strategy with real business insights.  
+> View the full documentation on [GitHub](#) _(replace with your repo URL)_
